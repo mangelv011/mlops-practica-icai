@@ -4,5 +4,3 @@ __pycache__/
 mlruns/
 mlflow.db
 mlartifacts/
-registry.db
-online_store.db
