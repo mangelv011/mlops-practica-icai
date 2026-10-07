@@ -16,8 +16,8 @@ stages:
       size: 2831
     - path: requirements.txt
       hash: md5
-      md5: dc3421d09943b720dfdbc4080f00fb4d
-      size: 142
+      md5: 01337f9646c24ed1fdbe9910b756a476
+      size: 143
     - path: train.py
       hash: md5
       md5: a09cd44515154311d38c8bda8bed3e6b
